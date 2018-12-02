@@ -1,0 +1,46 @@
+// Body
+$body-bg: #f8fafc;
+
+// Typography
+$font-family-base: 'Source Sans Pro', sans-serif;
+$font-size-base: 0.9rem;
+$font-size-secondary: 0.85rem;
+
+$line-height-base: 1.6;
+
+// Colors
+$blue: #3490dc;
+$indigo: #6574cd;
+$purple: #9561e2;
+$pink: #f66d9b;
+$red: #e3342f;
+$orange: #f6993f;
+$yellow: #ffed4a;
+$green: #38c172;
+$teal: #4dc0b5;
+$cyan: #6cb2eb;
+
+$color-text-black: hsl(0, 0, 13%);
+$color-text-main: hsl(0, 0, 29%);
+$color-text-light: hsl(0, 0, 45%);
+$color-text-lighter: hsl(0, 0, 65%);
+$color-text-white: hsl(0, 0, 95%);
+
+$color-transparent-white: rgba(255, 255, 255, 90%);
+$color-transparent-grey: rgba(
+    calc(29 / 255),
+    calc(29 / 255),
+    calc(29 / 255),
+    60%
+);
+
+$color-light: hsl(0, 0, 100%);
+$color-black: hsl(0, 0, 13%);
+$color-grey: hsl(0, 0, 29%);
+$color-transparent: rgba(0, 0, 0, 0);
+
+$z-index-back: -1;
+$z-index-0: 0;
+$z-index-1: 1000;
+$z-index-2: 2000;
+$z-index-3: 3000;
